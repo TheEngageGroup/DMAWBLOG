@@ -7,12 +7,12 @@ Documentation for creating new blog posts
 
 # I. Add a New Post
 
-**In order to create an event, click "Add new" under "Posts" pictured below.**
+**In order to create an post, click "Add new" under "Posts" pictured below.**
 
 ![](Add_Post_1.png)
 
 
-**Once the event is created, the following screen will appear. Follow the steps to create a post.**
+**Once the post is created, the following screen will appear. Follow the steps to create a post.**
 
 
 ![](Add_Post_2.png)
