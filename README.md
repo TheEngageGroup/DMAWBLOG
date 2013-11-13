@@ -22,13 +22,13 @@ Documentation for creating new blog posts
       
 2. **Add Content** - Add the content of the post here.
       
-3. **Publish/Save the Post** - This is where events are saved as drafts, can be previewed, and finally published. 
+3. **Publish/Save the Post** - This is where posts are saved as drafts, can be previewed, and finally published. 
       
-      The "Status" indicates whether the event is in draft, pending review, or published status.
-      The "Visibility" indicates whether the event is public, password protected, or private. Events will most likely always be public.
-      The "Publish" field can be edited to publish the event at a date in the past, immediately, or in the future.
-      While creating the event, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
-      Once the event is ready to be published (after the following steps are complete and previewed), click the "Publish" button.
+      The "Status" indicates whether the post is in draft, pending review, or published status.
+      The "Visibility" indicates whether the post is public, password protected, or private. Posts will most likely always be public.
+      The "Publish" field can be edited to publish the post at a date in the past, immediately, or in the future.
+      While creating the post, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
+      Once the post is ready to be published (after the following steps are complete and previewed), click the "Publish" button.
             
 4. **Categorize the Post** - This is where events are categorized. This makes it so the web visitor can separate the posts by type. **If you want the post to show up on the blog page, categorize it with "blog" in addition to any other categories.**
       
@@ -36,7 +36,7 @@ Documentation for creating new blog posts
  
 6. **Add Tags to the Post** - Add tags to the post here. Be sure to seperate tags with commas.
      
-7. **Set the Event's Featured Image (760px width x 300 height)** - Add a featured image for the post. This will be the image that shows up as the banner for the post as well as the blog listing page. The image should be approximately 760px width x 300 height
+7. **Set the Post's Featured Image (760px width x 300 height)** - Add a featured image for the post. This will be the image that shows up as the banner for the post as well as the blog listing page. The image should be approximately 760px width x 300 height
 
 
 # II. Add an Image
@@ -96,14 +96,3 @@ Documentation for creating new blog posts
 2. Click "Scale".
 
 3. Click "Save" and then "Update" for the image to save the changes.
-
-# IV. Other Website Updates
-
-* In order to update the Featured Event, website title, website featured text, "Join DMAW" link, or home ad, click **Appearance > Theme Options > Home**.
-* To change the home page sponsors, click **Appearance > Theme Options > Home Sponsors**, where you can add and remove sponsor image urls and website links.
-* Social media links can also be edited by clicking **Appearance > Theme Options > Social**.
-* Update the website's top level nagivation menus by clicking **Appearance > Menus**. Here, any page can be added to the menu.
-* Add a blog post by clicking **Posts > Add New**. This is very similar to adding an event, however a lot less complicated. Be sure to include categories and tags for related content.
-* Add a website page by clicking **Pages > Add New**. These are pages that remain static throughout the website.
-
-
