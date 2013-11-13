@@ -1,7 +1,7 @@
 DMAWBLOG
 ========
 
-Documentation for creating new blog posts
+Documentation for creating new blog posts - lala
 
 **In order to add any changes to the DMAW website, log into Wordpress with your username and password at http://www.dmaw.org/wp-admin/.**
 
