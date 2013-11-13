@@ -9,7 +9,7 @@ Documentation for creating new blog posts
 
 **In order to create an post, click "Add new" under "Posts" pictured below.**
 
-![](https://github.com/TheEngageGroup/DMAWBLOG/raw/master/Add_Post_1.png)
+![](Add_Post_1.png)
 
 
 **Once the post is created, the following screen will appear. Follow the steps to create a post.**
