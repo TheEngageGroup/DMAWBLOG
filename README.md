@@ -30,7 +30,7 @@ Documentation for creating new blog posts
       While creating the post, it's important to click "Save Draft" and "Preview" along the process to make sure everything saves and looks correct.
       Once the post is ready to be published (after the following steps are complete and previewed), click the "Publish" button.
             
-4. **Categorize the Post** - This is where events are categorized. This makes it so the web visitor can separate the posts by type. **If you want the post to show up on the blog page, categorize it with "blog" in addition to any other categories.**
+4. **Categorize the Post** - This is where posts are categorized. This makes it so the web visitor can separate the posts by type. **If you want the post to show up on the blog page, categorize it with "blog" in addition to any other categories.**
       
 5. **Update the Post's SEO** - Filling out this section with relevant words will help with the Search Engine Optimization for the post. 
  
